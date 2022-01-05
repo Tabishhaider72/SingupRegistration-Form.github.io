@@ -1,5 +1,4 @@
 # Sing-up_Registration-Form
-🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽
 ## Note:
 In this repository, I will show how to make a responsive signup form in HTML and CSS. 
 We will also see how to add Wave Animation using HTML, CSS. 
